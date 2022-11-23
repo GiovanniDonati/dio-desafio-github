@@ -1,2 +1,5 @@
 # dio-desafio-github
-Desafio de Projeto sobre Git/Github do Bootcamp da DIO.
+
+## Bootcamp de <i>Javascript</i> | <i>React</i>
+
+Repositório criado com a finalidade de desenvolver os comandos iniciais em Git e Github.
